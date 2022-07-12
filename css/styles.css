@@ -30,3 +30,9 @@ body {
 #container p {
     font-weight: normal;
 }
+#footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 0.4em;
+}
